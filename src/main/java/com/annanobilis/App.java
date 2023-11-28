@@ -1,13 +1,15 @@
 package com.annanobilis;
 
-/**
- * Hello world!
- *
- */
+import com.annanobilis.menu.Menu;
+
+import java.sql.Connection;
+
+
+
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        new Menu().startMenu();
     }
 }
