@@ -2,6 +2,7 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/src/main/java/com/annanobilis/repository/EmployeeDao.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/annanobilis/repository/WorktaskDao.java" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/src/main/resources/create_tables.sql" dialect="PostgreSQL" />
   </component>
 </project>
